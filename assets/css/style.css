@@ -1,0 +1,60 @@
+
+.centrado {
+    text-align: center;
+}
+.colores {
+    color:pink;
+}
+
+h2{
+    color:pink;
+}
+.verde{
+    color:green;
+    text-decoration: underline;
+}
+
+#rojo{
+    color:rgb(100%,0%,0%);
+}
+
+
+#wrapper{
+    background:darkgray;
+    background-image: url("");
+}
+.text-blue{
+    color:#0037a1;
+}
+.text-red{
+    color:red;
+}
+.text-white{
+    color:white;
+}
+.chile{
+    background: darkgray;
+    color:blue;
+}
+.chile h4{
+    color: #3b266f70;;
+}
+.chile h3{
+    color:white;
+}
+
+.negrita{
+    font-weight: bold;
+}
+p{
+    font-size:1em;
+    font-weight: 500;
+    font-style: italic;
+    text-align: right;
+}
+body{
+    background-size: cover;
+}    /* background-image: url("../img/machine-learning.jpg"); */
+#eventos-anteriores{
+    text-align: center;
+}
